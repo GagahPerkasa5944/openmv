@@ -281,8 +281,8 @@
 #define OMV_SPI_DISPLAY_SCLK_PIN              (&omv_pin_B13_SPI2)
 #define OMV_SPI_DISPLAY_SSEL_PIN              (&omv_pin_B12_GPIO)
 
-#define OMV_SPI_DISPLAY_RS_PIN                (&omv_pin_D13_GPIO)
-#define OMV_SPI_DISPLAY_RST_PIN               (&omv_pin_D12_GPIO)
+#define OMV_SPI_DISPLAY_RS_PIN                (&omv_pin_B11_GPIO)
+#define OMV_SPI_DISPLAY_RST_PIN               (&omv_pin_B10_GPIO)
 #define OMV_SPI_DISPLAY_BL_PIN                (&omv_pin_A5_GPIO)
 #define OMV_SPI_DISPLAY_TRIPLE_BUFFER         (1)
 
